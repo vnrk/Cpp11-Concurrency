@@ -1,0 +1,2 @@
+//to run the program using gcc 4.8
+g++ ex1.c -pthread -std=c++11
