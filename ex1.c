@@ -13,5 +13,6 @@ int main()
    std::cout << "Hi from main!\n";
    //wait for the thread function to finish
    th.join();
+   //th.detach();
    return 0;
 }
